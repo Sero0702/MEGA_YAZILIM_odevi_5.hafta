@@ -1,0 +1,70 @@
+.container {
+  font-size: 20px;
+  text-align: justify;
+  margin: 2%;
+  margin-top: 0;
+  color: white;
+  background-color: #000000;
+}
+.header {
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color: rgb(14, 14, 84);
+}
+.bolge1{
+  padding: 2%;
+  margin-left: 10px;
+}
+.bolge2{
+  padding: 2%;
+  margin-left: 500px;
+  margin-top: -275px;
+}
+.bolge3{
+    padding: 2%;
+    margin: 10px;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.resim1{
+  margin-left: 40px;
+  margin-top: 100px;
+  width: 150px;
+}
+.resim2{
+  margin-left: 360px;
+  margin-top: -190px;
+  width: 150px;
+}
+.resim3{
+  margin-left: 675px;
+  margin-top: -230px;
+  width: 150px;
+}
+.resim4{
+  margin-left: 930px;
+  margin-top: -415px;
+  width: 150px;
+}
+.github{
+  width: 69px;
+  border-radius: 12px;
+}
+.linkedin{
+  width: 69px;
+  border-radius: 12px;
+}
+.gmail{
+  width: 69px;
+  border-radius: 12px;
+}
+.icon{
+  padding: 10px;
+}
+.footer{
+  text-align: center;
+  background-color:  rgb(14, 14, 84);
+}
